@@ -27,16 +27,16 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Yuv-Raj-15/LeetCode-AI-Tutor.git](https://github.com/Yuv-Raj-15/LeetCode-AI-Tutor.git)
+git clone https://github.com/Yuv-Raj-15/LeetCode-AI-Tutor.git
 cd leetcode-ai-tutor
+```
 
-
-2. Configure Your API Key
+### 2. Configure Your API Key
 Open app.js and locate the configuration section at the top. Replace the placeholder with your OpenRouter API Key:
-
-const OPENROUTER_API_KEY = "YOUR_KEY_HERE";
-
-3. Load into your Browser
+```bash
+'Authorization': 'Bearer <YOUR_API_KEY>', //  Enter Your API Key
+```
+### 3. Load into your Browser
 Open Microsoft Edge or Google Chrome.
 
 Navigate to the extensions management page (edge://extensions or chrome://extensions).
@@ -51,4 +51,4 @@ This extension does not collect, store, or share any personal user information. 
 👨‍💻 About the Developer
 Yuvraj Rauniyar
 Computer Science and Engineering Student, NIT Warangal
-Frontend Developer & DSA Enthusiast
+Web Developer & DSA Enthusiast
