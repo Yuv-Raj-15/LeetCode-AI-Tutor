@@ -11,11 +11,12 @@
 * **🎨 Native Integration:** Designed to work seamlessly with LeetCode’s Monaco editor and dark mode aesthetic.
 * **🧠 LLM Powered:** Integrates with advanced Large Language Models via the **OpenRouter API** for high-quality, context-aware coding assistance.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Highlights
 
 * **Languages:** JavaScript (ES6+), C++ (Problem context), HTML5, CSS3.
 * **Extension Architecture:** Manifest V3, `chrome.scripting`, `chrome.tabs`.
-* **AI Integration:** OpenRouter API.
+* **UI & DOM Manipulation:** All UI enhancements and complex DOM interactions were manually developed with minimal use of LLM to ensure high-performance integration and a native feel.
+* **AI Integration:** OpenRouter API is utilized specifically for logical code analysis and hint generation.
 
 ## 📸 Screenshots
 
