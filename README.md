@@ -28,10 +28,15 @@
 
 Watch the LeetCode AI Tutor in action! Here is a quick guide on how to get smart hints and fix your code natively inside the LeetCode editor.
 
-<video width="100%" controls>
-  <source src="Tutorial.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/6ec4183c-9547-4a3c-9535-ac4615819ce5
+
+
+
+
+
+
 
 ## 🚀 Installation & Setup
 
