@@ -24,6 +24,15 @@
 | :--- | :--- |
 | ![Hint Screenshot](screenshot_hint.png) | ![Fix Screenshot](screenshot_fix.png) |
 
+## 🎥 Tutorial Video
+
+Watch the LeetCode AI Tutor in action! Here is a quick guide on how to get smart hints and fix your code natively inside the LeetCode editor.
+
+<video width="100%" controls>
+  <source src="Tutorial.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## 🚀 Installation & Setup
 
 ### 1. Clone the Repository
