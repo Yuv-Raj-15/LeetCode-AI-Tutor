@@ -50,8 +50,6 @@ btnHint.addEventListener("click", async function() {
             method: 'POST',
             headers: {
                 'Authorization': 'Bearer <YOUR_API_KEY>',//  Enter Your API Key
-                'HTTP-Referer': '<YOUR_SITE_URL>', 
-                'X-OpenRouter-Title': '<YOUR_SITE_NAME>', 
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify({
@@ -109,9 +107,7 @@ btnSolve.addEventListener("click", async function() {
         let response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
             method: 'POST',
             headers: {
-                'Authorization': 'Bearer <YOUR_API_KEY>',//  Enter Your API Key
-                'HTTP-Referer': '<YOUR_SITE_URL>', 
-                'X-OpenRouter-Title': '<YOUR_SITE_NAME>', 
+                'Authorization': 'Bearer <YOUR_API_KEY>',//  Enter Your API Key 
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify({
